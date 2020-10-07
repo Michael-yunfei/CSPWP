@@ -1,4 +1,4 @@
-# CSPWP: Computer Science: Programming with Purposes
+# CSPWP - Computer Science: Programming with Purposes
 
 This is the reporsitory for computer science course taught in Pricenton. We will learn how to program in three programming languages:
 
